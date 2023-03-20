@@ -1,4 +1,4 @@
-# Farmer-insurance-claim
+# Krishi Application for Claim of Insurance 
 
 # Rajasthan IT Hackathon  Hackathon 2023
 
