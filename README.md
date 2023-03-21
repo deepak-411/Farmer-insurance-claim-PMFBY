@@ -15,8 +15,6 @@ Krishi Application for Claim of Insurance Machine Learning model will reduce the
 
 # Key Features
 * handshake Allows farmers to apply for multiple Insurance policies
-* chart_with_upwards_trend Enables tracking of Claims (using Blockchain)
-* woman_farmer Crop Damaged Prediction (using ML)
 * page_facing_up Allows Insurance companies to add Insurance policies & plans
 * white_check_mark Insurance companies can track & verify claims
 * arrow_double_up Insurance companies can update user's claim data
